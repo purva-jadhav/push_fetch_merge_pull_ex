@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 two and two makes four [2:25]
+=======
+Sun rises in the east[2:27]
+>>>>>>> 9ee8e514b648e70a54faae3298057d7bd1802008
